@@ -1,4 +1,8 @@
 streamlit
 yfinance
-textblob
+pandas
+plotly
 requests
+deep-translator
+beautifulsoup4
+lxml
